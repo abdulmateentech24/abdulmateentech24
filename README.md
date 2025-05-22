@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on Software Development**
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Python Programming**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/abdulmateentech24/abdulmateentech24/issues)**
 
