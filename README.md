@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Python Programming**
+ 🔭 I’m currently working on Software Development**
  
  🌱 I’m currently learning **Python**
 
