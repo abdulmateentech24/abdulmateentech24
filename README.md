@@ -55,3 +55,5 @@
   ![snake gif](https://raw.githubusercontent.com/abdulmateentech24/abdulmateentech24/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+![snake gif](https://github.com/abdulmateentech24/abdulmateentech24/blob/output/github-contribution-grid-snake.gif)
