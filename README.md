@@ -44,16 +44,6 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/abdulmatees) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AbdulMateen24) 
 
-  <!-- Profile Readme — GitHub Snake Animation for abdulmateentech24 -->
-<!-- Replace the RAW_SVG_URLs below if your branch or file path is different -->
-
-<div align="center">
-
-<!-- Snake Eating GitHub Contributions Graph -->
-<div align="center">
-
-  ![snake gif](https://raw.githubusercontent.com/abdulmateentech24/abdulmateentech24/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+ 
 
 ![snake gif](https://github.com/abdulmateentech24/abdulmateentech24/blob/output/github-contribution-grid-snake.gif)
