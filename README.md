@@ -49,7 +49,7 @@
 <!-- Snake Animation -->
 <div align="center">
 
-  ![snake gif](https://github.com/abdulmateentech24/abdulmateentech24/blob/output/github-snake.svg)
+  ![snake gif](https://raw.githubusercontent.com/abdulmateentech24/abdulmateentech24/output/github-snake-dark.svg)
 
 </div>
 
