@@ -51,5 +51,8 @@
 
   ![snake gif](https://github.com/abdulmateentech24/abdulmateentech24/blob/output/github-snake-dark.svg)
 
+  ![snake gif](https://github.com/abdulmateentech24/abdulmateentech24/blob/output/github-snake.svg)
+
 </div>
+
 
