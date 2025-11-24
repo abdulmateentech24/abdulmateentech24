@@ -46,4 +46,10 @@
 
  
 
-![snake gif](https://github.com/abdulmateentech24/abdulmateentech24/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake Animation -->
+<div align="center">
+
+  ![snake gif](https://github.com/abdulmateentech24/abdulmateentech24/blob/output/github-snake-dark.svg)
+
+</div>
+
