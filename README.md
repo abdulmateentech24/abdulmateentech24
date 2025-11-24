@@ -46,11 +46,4 @@
 
  
 
-<!-- Snake Animation -->
-<div align="center">
-
-  ![snake gif](https://raw.githubusercontent.com/abdulmateentech24/abdulmateentech24/output/github-snake-dark.svg)
-
-</div>
-
 
