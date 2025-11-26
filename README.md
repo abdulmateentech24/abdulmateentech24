@@ -25,7 +25,8 @@
 
 ![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=abdulmateentech24&show_icons=true&theme=aura&hide_border=true)
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=abdulmateentech24&layout=compact&theme=aura&hide_border=true)
-![Commit Streak](https://komarev.com/ghpvc/?username=abdulmateentech24&label=Current+Streak&color=blue&style=for-the-badge)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulmateentech24&theme=react-dark&hide_border=true)
+
 
 
 
