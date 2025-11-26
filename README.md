@@ -25,15 +25,7 @@
 
 ![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=abdulmateentech24&show_icons=true&theme=aura&hide_border=true)
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=abdulmateentech24&layout=compact&theme=aura&hide_border=true)
-[[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulmateentech24&theme=react-dark&hide_border=true)](https://streak-stats.demolab.com/?user=abdulmateentech24
-)](https://streak-stats.demolab.com/?user=abdulmateentech24
-)
-
-
-
-
-
-
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=abdulmateentech24&theme=aura&hide_border=true)
 
 </div>
 
