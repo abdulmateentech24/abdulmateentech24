@@ -25,7 +25,8 @@
 
 ![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=abdulmateentech24&show_icons=true&theme=aura&hide_border=true)
 ![Top Languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=abdulmateentech24&layout=compact&theme=aura&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulmateentech24&theme=aura&hide_border=true)
+![GitHub Streak](https://streak-stats.netlify.app?user=abdulmateentech24&theme=aura&hide_border=true)
+
 
 </div>
 
