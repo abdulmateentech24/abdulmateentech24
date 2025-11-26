@@ -20,14 +20,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🚀 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrk.vercel.app/api?username=abdulmateentech24&show_icons=true&theme=aura&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=abdulmateentech24&layout=compact&theme=aura&hide_border=true)
+![GitHub Stats](https://YOUR-VERCEL-DOMAIN/api?username=abdulmateentech24&show_icons=true&theme=aura&hide_border=true)
+![Top Languages](https://YOUR-VERCEL-DOMAIN/api/top-langs/?username=abdulmateentech24&layout=compact&theme=aura&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdulmateentech24&theme=aura&hide_border=true)
 
 </div>
+
 
 
 
