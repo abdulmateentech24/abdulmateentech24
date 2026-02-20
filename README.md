@@ -1,7 +1,49 @@
 # 💫 About Me:
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdulmateentech24.abdulmateentech24" /><br><br><h1 align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Mateen+From+SD!" /><br></h1><br><br><h3 align="center">A passionate software developer from India</h3><br><br><br/><br><br><div align="center"><br><br>🔭 🔭 I’m currently working as a Web Developer  **(Frontend)**  <br>I’m continuously improving my skills in HTML, CSS, and JavaScript  <br>💬:
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdulmateentech24.abdulmateentech24" /><br><br><h1 align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Mateen+From+SD!" /><br></h1><br><br><h3 align="center">A passionate software developer from India</h3><br><br><br/><br><br><div align="center"><br><br>🔭 🔭 
 
-🎓 I hold a Diploma in Backend Development using Python Programming, where I gained hands-on experience in API development, database management, and server-side logic. <br>⚡ Fun fact: **Game of Thrones Night's Watch cloaks were made from IKEA rugs**<br><br></div><br><br><hr/><br><br><h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2><br><br><br/><br><br><div align="center"><br>  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,mysql,github,figma,react" /><br>  <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,flask" <br><br></div><br><br><br/><br><hr/>
+## 💫 About Me
+A passionate Frontend Web Developer crafting responsive and user-friendly web experiences.
+
+---
+
+## 🚀 Current Focus
+Building modern, interactive websites using HTML, CSS, and JavaScript while continuously improving my frontend skills.
+
+---
+
+## 🎓 Education
+**Diploma in Backend Development (Python Programming)**  
+Focused on API development, database management, and scalable server-side application development.
+
+---
+
+## 🛠 Technical Skills
+Technologies and tools I use to design, develop, and deploy web applications.
+
+---
+
+## 💻 Frontend Development
+Creating responsive, visually appealing, and performance-optimized user interfaces.
+
+---
+
+## ⚙ Backend Foundations
+Strong understanding of REST APIs, databases, and server-side logic using Python.
+
+---
+
+## 📂 Projects & Work
+Real-world applications and development projects showcasing my technical abilities.
+
+---
+
+## 📫 Connect With Me
+Let’s collaborate and build something impactful together.
+
+---
+
+## ⚡ Fun Fact
+Game of Thrones Night's Watch cloaks were made from IKEA rugs.
 
 
 ## 🌐 Socials:
