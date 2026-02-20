@@ -2,8 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdulmateentech24.abdulmateentech24" /><br><br><h1 align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Mateen+From+SD!" /><br></h1><br><br><h3 align="center">A passionate software developer from India</h3><br><br><br/><br><br><div align="center"><br><br>🔭 🔭 
 
 ## 💫 About Me
-A passionate Frontend Web Developer crafting responsive and user-friendly web experiences.
-
+A passionate Frontend Web Developer specializing in building responsive, user-friendly, and visually engaging web experiences.
 ---
 
 ## 🚀 Current Focus
